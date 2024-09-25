@@ -223,7 +223,7 @@ packages:
     source: hosted
     version: "2.3.7"
   dio:
-    dependency: transitive
+    dependency: "direct main"
     description:
       name: dio
       sha256: "5598aa796bbf4699afd5c67c0f5f6e2ed542afc956884b9cd58c306966efc260"
@@ -766,5 +766,5 @@ packages:
     source: hosted
     version: "3.1.2"
 sdks:
-  dart: ">=3.5.2 <4.0.0"
+  dart: ">=3.5.3 <4.0.0"
   flutter: ">=3.18.0-18.0.pre.54"
